@@ -1,5 +1,5 @@
 // Автор: Ескали Б. Ж., студент колледжа "Хекслет", группы 21 ТИС
-// Лицензия: clause BSD
+// Лицензия: 3-Clause BSD
 
 const std = @import("std");
 const sdl = @cImport({
