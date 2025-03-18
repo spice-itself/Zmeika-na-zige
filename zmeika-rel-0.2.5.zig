@@ -1,3 +1,6 @@
+// Автор: Студент колледжа "Хекслет", группы 21 ТИС Ескали Б. Ж.
+// Лицензия: BSD
+
 const std = @import("std");
 const sdl = @cImport({
     @cInclude("SDL2/SDL.h");
